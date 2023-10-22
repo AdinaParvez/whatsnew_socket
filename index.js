@@ -2,7 +2,7 @@ import { Server } from "socket.io";
 
 const io = new Server(9000, {
     cors: {
-        origin: 'https://6534c695598cac05e278943d--stalwart-profiterole-05f973.netlify.app'
+        origin: 'https://6534f0f38b4dfd4fa751f543--tranquil-faun-adbb29.netlify.app'
     }
 })
 //to show active users below
